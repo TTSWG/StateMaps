@@ -8,10 +8,10 @@ nam = list(data["NAME"])
 elev = list(data["ELEV"])
 
 
-def color_producer(op):
-    if op == "---":
+def color_producer(elv1):
+    if elv1 == "---":
         return "green"
-    elif op <= "400":
+    elif elv1 <= "400":
         return "orange"
     else:
         return "red"
