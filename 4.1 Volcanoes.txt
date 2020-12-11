@@ -1,0 +1,8 @@
+NUMBER,NAME,LOCATION,ELEV,TYPE,LAT,LON
+1,Barren Island,Andaman Islands,354,Stratovolcano,12.278,93.858
+2,Narcondam,Andaman Islands,710,Stratovolcano,13.43,94.28
+3,Deccan Traps,Maharashtra,---,---,18.51,73.43
+4,Baratang,Andaman Islands,---,Mud Volcano,12.07,92.47
+5,Dhinodhar Hills,Gujarat,386,Extinct,23.45,69.34
+6,Dhosi Hills,Haryana,740,Extinct,28.06,76.03
+7,Tosham Hills,Haryana,207,Extinct,28.88,75.92
